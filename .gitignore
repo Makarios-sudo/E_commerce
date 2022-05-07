@@ -1,0 +1,8 @@
+.idea
+m_ecom/__pycache__
+store/__pycache__
+store/migrations
+db.sqlite3
+templates/store/login.html
+store/templates/store/register.html
+store/templates/store/login.html
